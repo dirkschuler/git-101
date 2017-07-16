@@ -11,9 +11,11 @@
 	justify-content: center;
 	height: 100vh;
 	flex-direction: column;
+	color: white;
 }
 
 body{	
 	margin: 0;
 	font-family: Helvetica;
+	background-color: #E14231
 }
